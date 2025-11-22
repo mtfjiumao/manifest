@@ -4,7 +4,7 @@
         <remote name="u-boot"   fetch="https://source.denx.de/u-boot" />
 
         <include name="common.xml" />
-        <project path="build"                name="edtubbs/build.git"			  revision="rock5b">
+        <project path="build"                name="mtfjiumao/build.git"			  revision="rock5b">
                 <linkfile src="rock5b.mk" dest="build/Makefile" />
         </project>
 
