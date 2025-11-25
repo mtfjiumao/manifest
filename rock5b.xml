@@ -9,6 +9,6 @@
         </project>
 
         <project path="rkdeveloptool"        name="rockchip-linux/rkdeveloptool" />
-        <project path="trusted-firmware-a"   name="TF-A/trusted-firmware-a.git"    revision="v2.12" remote="tfo" clone-depth="1" />
+        <project path="trusted-firmware-a"   name="TF-A/trusted-firmware-a.git"    revision="refs/tags/v2.12" remote="tfo" clone-depth="1" />
         <project path="u-boot"               name="u-boot.git"                            revision="refs/tags/v2024.10-rc3" remote="u-boot" clone-depth="1" />
 </manifest>
